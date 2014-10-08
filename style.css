@@ -12,6 +12,7 @@ html, body {
 
 .ngTopPanel {
   line-height: 25px;
+  color: green;
 }
 
 .ngCell  {
@@ -19,6 +20,7 @@ html, body {
   height: auto !important;
   overflow:visible;
   position: static;
+  
 }
 
 .ngRow {
